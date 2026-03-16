@@ -10,4 +10,11 @@ Temperature shows minimal correlation with solar radiation, confirming that sola
 
 The analysis combines Python for data cleaning and visualization, SQL for data management, Excel for advanced pivot tables, and Power BI for interactive dashboards, demonstrating a full-stack data analytics workflow. The results provide actionable insights for solar energy planning, sustainability initiatives, and renewable energy investment strategies in the UAE.
 
--- PROBLEM STATEMENT
+PROBLEM STATEMENT
+The UAE aims to transition from fossil fuels to renewable energy, but solar energy potential varies across seasons, regions, and environmental conditions. Without detailed analysis, it is challenging for energy planners and investors to optimize solar farm locations, predict energy output, and minimize efficiency losses due to clouds or temperature variations.
+
+The core problem is:
+
+How can historical solar radiation and environmental data be analyzed to quantify UAE’s solar energy potential, identify seasonal and regional patterns, and provide actionable insights for effective renewable energy planning?
+
+Addressing this problem supports data-driven decision-making for solar infrastructure, maximizes energy production, and contributes to the UAE’s sustainability goals.
