@@ -1,5 +1,5 @@
 # Solar-Energy-Potential-and-Trends-in-the-UAE-2001-2025
--- Executive Summary
+Executive Summary
 
 The UAE has set ambitious goals to diversify its energy mix and increase reliance on renewable energy sources, particularly solar power. This project analyzes solar radiation patterns in the UAE from 2001 to 2025 using NASA POWER satellite data. The primary parameters studied are ALLSKY_SFC_SW_DWN (actual solar radiation), CLRSKY_SFC_SW_DWN (clear-sky potential radiation), and T2M (temperature).
 Solar radiation is highest between April and September, indicating the optimal months for solar energy generation.
