@@ -9,4 +9,5 @@ On average, cloud cover reduces potential solar energy by @@@@@@@@@@@@@@2 W/m²,
 Temperature shows minimal correlation with solar radiation, confirming that solar energy remains efficient even during extreme summer heat.
 
 The analysis combines Python for data cleaning and visualization, SQL for data management, Excel for advanced pivot tables, and Power BI for interactive dashboards, demonstrating a full-stack data analytics workflow. The results provide actionable insights for solar energy planning, sustainability initiatives, and renewable energy investment strategies in the UAE.
+
 -- PROBLEM STATEMENT
