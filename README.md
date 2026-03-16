@@ -1,1 +1,1 @@
-# Solar-Energy-Potential-and-Trends-in-the-UAE-2001-2024-
+# Solar-Energy-Potential-and-Trends-in-the-UAE-2001-2025-
